@@ -28,6 +28,14 @@
   color: #97ca3f;
 }
 
+.App {
+  width: 350px;
+  padding: 20px;
+  background-color: #ffffff;
+  border-radius: 10px;
+  box-shadow: 0 10px 15px rgba(0, 0, 0, 0.1);
+}
+
 @keyframes App-logo-spin {
   from {
     transform: rotate(0deg);
