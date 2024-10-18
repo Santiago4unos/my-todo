@@ -4,7 +4,6 @@
   "dependencies": {
     "@types/jest": "^29.5.13",
     "@types/node": "^22.7.4",
-    "@types/react": "^18.3.11",
     "@types/react-dom": "^18.3.0",
     "react": "^18",
     "react-dom": "^18",
@@ -37,7 +36,8 @@
   },
   "homepage": "https://santiago4unos.github.io/my-todo",
   "devDependencies": {
+    "@types/react": "^18.3.11",
     "gh-pages": "^6.2.0",
-    "typescript": "^5.6.2"
+    "typescript": "^4.9.5"
   }
 }
