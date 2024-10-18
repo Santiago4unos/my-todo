@@ -1,0 +1,25 @@
+.icon-container {
+    cursor: pointer;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 28px;
+    width: 28px;
+    font-size: 24px;
+    font-weight: bold;
+    color: #333;
+}
+
+.icon-container-check:hover .icon-svg {
+    fill: lightgreen;
+}
+
+.icon-container-delete:hover .icon-svg {
+    fill: red;
+}
+
+.icon-svg {
+    width: 24px;
+    height: 24px;
+    transition: color 1s ease;
+}
